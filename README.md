@@ -18,3 +18,5 @@
 É uma função importante devido sua simplicidade e foco. Ele pode ser aberto e lido praticamente em qualquer editor, sem depender de softwares específicos, pois é baseado em puro texto. 
 
 Isso faz com que seja um padrão ouro para documentação de projetos em TI, sendo amplamente utilizado para criar arquivos README.md.
+
+## Estruturas e Sintaxes do Markdown
