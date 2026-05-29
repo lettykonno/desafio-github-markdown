@@ -20,3 +20,14 @@
 Isso faz com que seja um padrão ouro para documentação de projetos em TI, sendo amplamente utilizado para criar arquivos README.md.
 
 ## Estruturas e Sintaxes do Markdown
+- **Enfatizar Textos**
+- **Declarar Cabeçalhos**
+- **Criar Listar**
+- **Inserir Imagens**
+- **Criar Texto**
+- **Preencher lacunas com HTML inline**
+- **Trabalhar com código**
+- **Vincular problemas e solicitações de pulls**
+- **Mencionar usuários ou equipes**
+- **Litar Tarefas**
+- **Comandos de Barra**
