@@ -5,13 +5,16 @@
 </p>
 
 >## Objetivos
->Este repositório foi criado para fins de estudo e conclusão da certificação oficial do GitHub pela plataforma DIO.
+>Este repositório foi criado para fins de estudo e conclusão da certificação oficial do GitHub pela plataforma DIO. Abaixo alguns tópicos importantes que compõe esse documento:
 >
->O que foi realizado aqui:<br>
->1. Criado um novo repositório 
->2. Neste caso, criei uma outra conta para poder adicionar um colaborador "diferente" para realizar o teste e também para realizar o fork.
->3. O repositório foi clonado no computador local.
->4. Realizado alterações, commits, issues e pull requests.
->5. Edições feitas via Gitdev.
->6. Projeto formatado com markdown.
+>1. Significado e importância do Markdown.
+>2. Estrutura e Sintaxe
+>3. Importâcia do Git/GitHub e sua funcionalidades.
 
+## O que é e por que o Markdown é importante?
+
+**Markdown** é uma linguagem de marcação leve, criada para facilitar a escrita e leitura de textos na web. Em vez de usar códigos HTML complexos ou menus de editores visuais (como o Word). É utilizado símbolos simples no teclado para formatar o conteúdo.
+
+É uma função importante devido sua simplicidade e foco. Ele pode ser aberto e lido praticamente em qualquer editor, sem depender de softwares específicos, pois é baseado em puro texto. 
+
+Isso faz com que seja um padrão ouro para documentação de projetos em TI, sendo amplamente utilizado para criar arquivos README.md.
